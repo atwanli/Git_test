@@ -14,6 +14,6 @@ public class ThreadTest implements Runnable{
         thread.start();
     }
     public void test2(){
-        System.out.println("test2");
+        System.out.println("test21");
     }
 }
